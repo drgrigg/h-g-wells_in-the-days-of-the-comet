@@ -45,35 +45,37 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A strange comet collides with the Earth and spreads green vapours which change human consciousness in a variety of positive ways.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;In the Days of the Comet&lt;/i&gt;, published in 1906, is one of &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt;’ “scientific romances.” Though it is clearly a work of science fiction in that it features the collision of a huge comet with the Earth, it has a greater than usual emphasis on the author’s social commentary and criticism.&lt;/p&gt;
+&lt;p&gt;The main story, cast as a memoir being written in manuscript by an old man in a tower, begins with the narrator as an unhappy young man who is thwarted in love. The grim working and social conditions of the late 19th Century are described in some detail in the first part. It is in the effects of the green vapours spread by the comet which give the book its focus in the second and third parts. The vapours somehow alter human consciousnes in a way which makes them immediately perceive the flaws of their previous behaviour and the inequities of the social structures of every country. With this new consciousness, humanity begins to remake the world.&lt;/p&gt;
+&lt;p&gt;The publication of &lt;i&gt;In the Days of the Comet&lt;/i&gt; caused a degree of shock and scandal in that it concludes with an endorsement of the idea of polyamorous love, with the narrator in a happy foursome relationship. Even the progressive group the Fabian Society, of which Wells was an early member, were scandalised by the book’s ending.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3797</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/indaysofcomet0000hgwe</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/006928423</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/In_the_Days_of_the_Comet</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-g-wells_in-the-days-of-the-comet</meta>
 		<dc:creator id="author">H. G. Wells</dc:creator>
 		<meta property="file-as" refines="#author">Wells, H. G.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author">Herbert George Wells</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._G._Wells</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79063613</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">William Turner</dc:contributor>
+		<meta property="file-as" refines="#artist">Turner, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Turner_(painter)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86103018</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judy Boss</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Boss, Judy</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://thegriggs.org/david/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
